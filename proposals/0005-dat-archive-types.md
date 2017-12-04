@@ -1,6 +1,6 @@
 # Dat archive types
 
-Within the Dat FS, there is the concept of "archives." Archives are basically a bundle of files, and, when browsing, they map very cleanly to the concept of a site. So, as a shorthand, you could think of 'archive' as == to 'site.' (Also, for what it's worth, we often just call archives "dats.")
+In Dat, an archive is a collection of files and directories, and when used in the context of a Web browser, maps very cleanly to the concept of a website. In Beaker, Dat archives are used to represent websites. Also, for what it's worth, we often call a Dat archive a "dat".
 
 In this proposal, we introduce the concept of "archive types." Types are a way to specify the role, contents, and/or data formats of a given Dat archive.
 
