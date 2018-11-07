@@ -25,6 +25,7 @@ Looking to learn about how Beaker works? Start here:
 |`DatArchive` API|Not yet written. Refer to [the documentation](https://beakerbrowser.com/docs/apis/dat) for now.||
 |`PeerSockets` API|Not yet written. Refer to [the PR](https://github.com/beakerbrowser/beaker-core/pull/6) for now.||
 |`DatPubkeyFile` API|Not yet written. Refer to [this gist](https://gist.github.com/pfrazee/e4a9d1bdd095564991b5b75a5fe49bd7) for now.||
+|[`Dat Service` API](./dat-service.md).|Proposed.||
 
 ### Phase 1 - Accepted Drafts
 
